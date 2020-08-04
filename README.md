@@ -1,4 +1,4 @@
-# node-boilerplate
+# dummy-nodejs-server
 
 ### Introduction
 - A clean boilerplate to start for projects built using nodejs, express and mongoDb
@@ -17,5 +17,4 @@
 -  [MongoDb](https://www.mongodb.com/) 
 -  [Mongoose](https://mongoosejs.com/), [docs](https://www.npmjs.com/package/mongoose)
 -  [Morgan](https://github.com/expressjs/morgan), [docs](https://www.npmjs.com/package/morgan)
-# dummy-nodejs-server
-# dummy-nodejs-server
+
